@@ -61,9 +61,6 @@ The project is powered by the following technologies and AWS services:
 ## Contributions
 Contributions are welcome! Feel free to fork the repository, submit pull requests, or suggest features through the [issues page](https://github.com/ameh0429/Game-Day-Notification-Project/issues).
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - Thanks to [NBA APIs](https://www.nba.com/) for providing real-time game data.
 - Special appreciation to AWS for their robust cloud services.
