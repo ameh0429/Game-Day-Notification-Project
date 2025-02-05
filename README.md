@@ -66,5 +66,3 @@ Contributions are welcome! Feel free to fork the repository, submit pull request
 - Special appreciation to AWS for their robust cloud services.
 
 ---
-
-For any questions or feedback, please contact the project maintainer at [ameh0429](https://github.com/ameh0429).
